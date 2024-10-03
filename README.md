@@ -1,4 +1,4 @@
-**Bike Rentals - Dicoding Final Project Analytics**
+# Bike Rentals - Dicoding Final Project Analytics
 
 ## **Overview**
 
@@ -11,7 +11,7 @@ This is my final project for Dicoding's "Belajar Analisis Data Dengan Python" co
 
 For more details about the dataset, such as its background, characteristics, and file structure, please refer to the Readme file.
 
-##**1. File Structures**
+## 1. File Structures
 
 ```
 # submission
@@ -30,7 +30,7 @@ For more details about the dataset, such as its background, characteristics, and
 
 ```
 
-##**2. Project Work Cycle**
+## 2. Project Work Cycle
 
 1. Data Wrangling:
   * Gathering data
@@ -49,7 +49,7 @@ For more details about the dataset, such as its background, characteristics, and
 
 **Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in dashboard.**
 
-##**3. Getting Started**
+## 3. Getting Started
 
 ## [BikeSharingRentals.ipynb](https://github.com/mzidanatsal/Bike-Sharing-Rentals-Dicoding-Final-Project/blob/main/BikeSharingRentals.ipynb)
 
