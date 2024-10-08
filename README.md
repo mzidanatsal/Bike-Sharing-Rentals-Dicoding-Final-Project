@@ -51,7 +51,7 @@ For more details about the dataset, such as its background, characteristics, and
 
 ## 3. Getting Started
 
-## [BikeSharingRentals.ipynb](https://github.com/mzidanatsal/Bike-Sharing-Rentals-Dicoding-Final-Project/blob/main/BikeSharingRentals.ipynb)
+## [BikeSharingRentals.ipynb](https://github.com/mzidanatsal/Bike-Sharing-Rentals-Dicoding-Final-Project/blob/main/FINAL_PROJECT_BIKE_RENTAL_ZIDAN.ipynb)
 
 1. Download this project.
 2. Open your favorite IDE like Jupyter  Notebook or Google Colaboratory (but  in here I will use Google Colab).
